@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# COM 495 Data Journalism
 
-You can use the [editor on GitHub](https://github.com/shermandy/COM-495-Data-Journalism/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! This repository serves as the home for my Data Journalism course, COM 295. I am an Associate Professor of Communication at Waynesburg University. You can [view my website](http://shr.mn) for more information about my background.
 
 ### Markdown
 
