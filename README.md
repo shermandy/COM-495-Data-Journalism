@@ -2,9 +2,9 @@
 
 Hello! This repository serves as the home for my Data Journalism course, COM 295. I am an Associate Professor of Communication at Waynesburg University. You can [view my website](http://shr.mn) for more information about my background.
 
-### Markdown
+## Contact information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Send me a message on Twitter or book an in-person appointment on [https://calendly.com/drsherman](calend.ly).
 
 ```markdown
 Syntax highlighted code block
