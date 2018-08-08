@@ -3,6 +3,7 @@
 You are expected to attend every class. Your presence and active discussion at all course meetings is at the heart of a meaningful class experience. More than 3 absences will result in an automatic grade reduction.
 
 | Number of absences | Penalty             |
+| ------------------ | ------------------- |
 | 4                  | 33 point deduction  |
 | 5                  | 100 point deduction |
 | 6+                 | 200 point deduction |
