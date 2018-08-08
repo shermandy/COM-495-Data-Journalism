@@ -6,7 +6,7 @@ Hello! This repository serves as the home for my Data Journalism course, COM 295
 
 ## Contact information
 
-Send me a message on Twitter or book an in-person appointment on [https://calendly.com/drsherman](calend.ly).
+Send me a message on Twitter or book an in-person appointment on [calend.ly](https://calendly.com/drsherman).
 
 ## Course information
 
@@ -33,3 +33,10 @@ Upon successful completion of this course, the student will be able to:
 3. Use appropriate software to analyze data
 4. Create unique data visualizations to improve the effectiveness of a journalistic story
 5. Use software to plot data onto an electronic map
+
+### Reading
+* [The Functional Art, Cairo](http://a.co/hLatpV3)
+* [Designing Data Visualizations, Illinsky and Steele](http://a.co/cu4QqLd)
+* [The Curious Journalist’s Guide to Data, Cairo](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php)
+* [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/)
+* [Data Literacy: A Users's Guide, Herzog](http://a.co/8XpbZDK)
