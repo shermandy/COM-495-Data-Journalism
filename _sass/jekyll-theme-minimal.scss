@@ -57,6 +57,7 @@ a:hover small {
 
 .wrapper {
   display: flex;
+  flex-wrap: nowrap;
   width: 1140px;
   margin:0 auto;
 }
@@ -107,7 +108,7 @@ img {
 
 header {
   -webkit-font-smoothing:subpixel-antialiased;
-  width: 67%;
+  width: 33%;
 }
 
 ul.downloads {
@@ -172,7 +173,7 @@ strong {
 
 section {
   padding-bottom:50px;
-  width: 33%;
+  width: 67%;
 }
 
 small {
