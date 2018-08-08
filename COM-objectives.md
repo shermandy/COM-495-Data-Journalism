@@ -1,6 +1,6 @@
-A. Test
-B. dgdg
-C. sadfhgarharh
+a. Test
+b. dgdg
+c. sadfhgarharh
 
 Upon successful completion of a Department of Communication major program, each student should be able to:
 
