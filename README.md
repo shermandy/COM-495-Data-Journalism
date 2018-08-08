@@ -24,30 +24,12 @@ By the end of this course, you will have a practical understanding of the tools 
 | Design compelling data visualizations that highlight interesting trends in a selected data pool | 5 | 2a, 3, 5, 6 |
 | Write code that allows complex data to be more easily understood | 5 | 2a |
 
-```markdown
-Syntax highlighted code block
+### Learning outcomes
 
-# Header 1
-## Header 2
-### Header 3
+Upon successful completion of this course, the student will be able to:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shermandy/COM-495-Data-Journalism/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Employ data journalism techniques to improve an investigative story
+2. Clean data collected from the internet
+3. Use appropriate software to analyze data
+4. Create unique data visualizations to improve the effectiveness of a journalistic story
+5. Use software to plot data onto an electronic map
