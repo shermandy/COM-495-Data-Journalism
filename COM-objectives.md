@@ -1,3 +1,7 @@
+A. Test
+B. dgdg
+C. sadfhgarharh
+
 Upon successful completion of a Department of Communication major program, each student should be able to:
 
 1. Integrate Christian faith and service within the communication discipline;
