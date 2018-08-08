@@ -1,13 +1,3 @@
-I.  One                                                                                                                                                                                        
-    A.  two                                                                                                                                                                                    
-        1. three                                                                                                                                                                               
-        2. four                                                                                                                                                                                
-            i.  five                                                                                                                                                                           
-            ii.  six                                                                                                                                                                           
-                - seven                                                                                                                                                                        
-                    * eight                                                                                                                                                                    
-II.  Nine
-
 Upon successful completion of a Department of Communication major program, each student should be able to:
 
 1. Integrate Christian faith and service within the communication discipline;
