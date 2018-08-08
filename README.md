@@ -119,4 +119,4 @@ Use R to create an appropriate data visualization. This assignment is heavy on c
 
 ## Course policies
 
-There are a lot of them. I won't post them here to save people that are forking this repository. If you are a WU student, you can view them here.
+There are a lot of them. I won't post them here to save people that are forking this repository. If you are a WU student, you can [view them here](COURSE-POLICIES.md).
