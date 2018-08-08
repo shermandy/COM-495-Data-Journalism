@@ -35,10 +35,10 @@ Upon successful completion of this course, the student will be able to:
 5. Use software to plot data onto an electronic map
 
 ### Reading
-* [The Functional Art, Cairo](http://a.co/hLatpV3)
-* [Designing Data Visualizations, Illinsky and Steele](http://a.co/cu4QqLd)
-* [The Curious Journalist’s Guide to Data, Cairo](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php)
-* [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/)
+* [The Functional Art](http://a.co/hLatpV3) Alberto Cairo
+* [Designing Data Visualizations](http://a.co/cu4QqLd) Noah Illinsky & Julie Steele
+* [The Curious Journalist’s Guide to Data](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php) Alberto Cairo
+* [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/) Jonathan Gray, Lucy Chambers, & Liliana Bounegru
 * [Data Literacy: A Users's Guide, Herzog](http://a.co/8XpbZDK)
 
 ### Materials
