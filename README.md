@@ -73,3 +73,50 @@ Grades will be assigned according to the following scale:
 | 63-67%         | D            |
 | 60-62%         | D-           |
 | 0-59%          | F            |
+
+## Assignments
+
+All assignments are worth 50 points.
+
+### Data collection
+
+Find two data sources: one that’s online and one that is not. You will present to the class about the data’s location, maintenance, and why it’s interesting. Obtaining the offline data source will be a semester-long quest.
+
+### Excel data cleaning
+
+Use Excel commands and formulas to clean up and transform data. Apply learned strategies and tricks for managing your data cleaning processes.
+
+### DataWrangler and INZight
+
+Use DataWrangler to transform data in wide format into long (or “tidy”) format. Use INZight to make basic discoveries in your data.
+
+### Visualization
+
+You will make your first data story pitch. The pitch must include a link to the data you will use, and an explanation of what is going on and why we should care. You must also include the name of one source you have already spoken with, or three sources you plan to speak with. These sources should be experts who can explain or contextualize your data.
+
+### Mapping
+
+You will submit your first story draft. This must be a complete story. You should have completed all reporting, all data cleaning, and all visualizations. Don’t forget details such as legends, source links and photo credits, as well as a good headline. You must talk to at least one human source who can explain or contextualize the data. You don’t have to quote them in the story, but you do have to be able to tell the class what you learned from talking to the source.
+
+### RawGraphs
+
+Use RawGraphs to create an appropriate data visualization. You will locate the data, clean it, use RawGraph to create the visualization, and output it to Illustrator for final editing.
+
+### D3
+
+Use D3 to create an appropriate data visualization with interactivity. You will locate the data, clean it, and use D3 to create the final visualization.
+
+### Scraping
+
+Use web scraping software to collect difficult data from the web. You will need to locate the source of data and create a custom matching pattern for the scraping software.
+
+### Tableau
+Use Tableau to generate an appropriate data visualization. You will locate the data, clean it, and use Tableau to create the final visualization.
+
+### R
+
+Use R to create an appropriate data visualization. This assignment is heavy on coding. You will use R to output a basic data visualuzation.
+
+## Course policies
+
+There are a lot of them. I won't post them here to save people that are forking this repository. If you are a WU student, you can view them here.
