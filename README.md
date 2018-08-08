@@ -8,6 +8,22 @@ Hello! This repository serves as the home for my Data Journalism course, COM 295
 
 Send me a message on Twitter or book an in-person appointment on [https://calendly.com/drsherman](calend.ly).
 
+## Course information
+
+Journalists today are expected to find stories hidden inside complex data. In this class, you will combine your analytical abilities with modern software to look at raw data in new ways. You are not merely summarizing events or information -- this is investigative journalism at its core. This lecture class will employ code, data, basic stats analytical thinking, and practical journalism techniques.
+
+### Course goal
+
+By the end of this course, you will have a practical understanding of the tools and programming languages required for in-depth analysis of complex data.
+
+### Course objectives
+
+| Upon successful completion of this course, the student should be able to:        | Assignment           | WU COM Objective  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ```markdown
 Syntax highlighted code block
 
