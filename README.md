@@ -40,3 +40,17 @@ Upon successful completion of this course, the student will be able to:
 * [The Curious Journalist’s Guide to Data, Cairo](https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php)
 * [The Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/)
 * [Data Literacy: A Users's Guide, Herzog](http://a.co/8XpbZDK)
+
+### Materials
+* Laptop with administrator rights (bring to class every day)
+* Access to Adobe Illustrator
+
+### Observable outcomes
+| # | Assignment              | Points | 
+| 1 | Story 1                 | 150    |
+| 2 | Story 2                 | 150    |
+| 3 | Story 3                 | 150    |
+| 4 | Data negotiation        | 50     |
+| 5 | Assignments (see below) | 500    |
+
+
