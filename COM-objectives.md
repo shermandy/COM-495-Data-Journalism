@@ -1,9 +1,13 @@
 Upon successful completion of a Department of Communication major program, each student should be able to:
 
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
 1. Integrate Christian faith and service within the communication discipline;
-.* Explain the application of a Christian worldview to the communication discipline;
-.* Articulate a personal faith statement;
-.* Relate the value of service with a communication setting;
+   a. Explain the application of a Christian worldview to the communication discipline;
+   b. Articulate a personal faith statement;
+   c. Relate the value of service with a communication setting;
 2. Employ industry standard technology to their respective field(s);
 Identify industry standard technology;
 Differentiate among possible technology solutions for effective message development;
