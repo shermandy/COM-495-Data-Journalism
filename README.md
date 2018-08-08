@@ -19,7 +19,7 @@ By the end of this course, you will have a practical understanding of the tools 
 ### Course objectives
 
 | Upon successful completion of this course, the student should be able to: | Assignment | WU COM Objective |
-| ------------- |:-------------:| -----:|
+| --- | --- | --- |
 | Employ data journalism approaches to investigate an issue at an in-depth level | 1-5 | 2a, 3 |
 | Design compelling data visualizations that highlight interesting trends in a selected data pool | 5 | 2a, 3, 5, 6 |
 | Write code that allows complex data to be more easily understood | 5 | 2a |
