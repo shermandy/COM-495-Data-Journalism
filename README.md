@@ -46,11 +46,13 @@ Upon successful completion of this course, the student will be able to:
 * Access to Adobe Illustrator
 
 ### Observable outcomes
-| # | Assignment              | Points | 
-| 1 | Story 1                 | 150    |
-| 2 | Story 2                 | 150    |
-| 3 | Story 3                 | 150    |
-| 4 | Data negotiation        | 50     |
-| 5 | Assignments (see below) | 500    |
+
+| #   | Assignment              | Points |
+| --- | --------------------- | ------ |
+| 1   | Story 1                 | 150    |
+| 2   | Story 2                 | 150    |
+| 3   | Story 3                 | 150    |
+| 4   | Data negotiation        | 50     |
+| 5   | Assignments (see below) | 500    |
 
 
