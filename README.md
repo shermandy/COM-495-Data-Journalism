@@ -1,5 +1,3 @@
-# COM 495 Data Journalism
-
 Hello! This repository serves as the home for my Data Journalism course, COM 295. I am an Associate Professor of Communication at Waynesburg University. You can [view my website](http://shr.mn) for more information about my background.
 
 [View this page on Github Pages](https://shermandy.github.io/COM-495-Data-Journalism).
