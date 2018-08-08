@@ -55,4 +55,21 @@ Upon successful completion of this course, the student will be able to:
 | 4   | Data negotiation        | 50     |
 | 5   | Assignments (see below) | 500    |
 
+### WU grading scale
 
+Grades will be assigned according to the following scale:
+
+| Percent earned | Letter grade |
+| -------------- | ------------ |
+| 93-100%        | A            | 
+| 90-92%         | A-           |
+| 88-89%         | B+           |
+| 83-87%         | B            |
+| 80-82%         | B-           |
+| 78-79%         | C+           |
+| 73-77%         | C            |
+| 70-72%         | C-           |
+| 68-69%         | D+           |
+| 63-67%         | D            |
+| 60-62%         | D-           |
+| 0-59%          | F            |
