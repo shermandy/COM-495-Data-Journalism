@@ -29,15 +29,15 @@ Upon successful completion of a Department of Communication major program, each 
    * b. Participate regularly at professional development events including but not limited to conferences, official meetings, and workshops;
    * c. Demonstrate knowledge of contemporary issues within their field of study;
 10. Apply legal and ethical considerations to media production and consumption;
-   * a. Recognize legal considerations applicable to the communication field;
-   * b. Articulate a personal ethical framework;
-   * c. Relate industry codes of ethics to their field of study;
+	   * a. Recognize legal considerations applicable to the communication field;
+	   * b. Articulate a personal ethical framework;
+	   * c. Relate industry codes of ethics to their field of study;
 11. Describe mass communication research methods and theories;
-   * a. Relate major research methods to communication applications;
-   * b. Discuss major communication theories and models;
+	   * a. Relate major research methods to communication applications;
+	   * b. Discuss major communication theories and models;
 12. Summarize the major developments in mass communication history;
-   * a. Recall the major historical developments of the mass communication field;
-   * b. Analyze the major historical developments within their field of study;
-   * c. Relate mass communication history to contemporary issues and challenges in the industry;
+	   * a. Recall the major historical developments of the mass communication field;
+	   * b. Analyze the major historical developments within their field of study;
+	   * c. Relate mass communication history to contemporary issues and challenges in the industry;
 13. Demonstrate effective interpersonal skills within a professional environment; Practice professional behavior.
 14. Practice professional behavior.
