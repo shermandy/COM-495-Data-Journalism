@@ -8,7 +8,7 @@ Send me a message on Twitter or book an in-person appointment on [calend.ly](htt
 
 ## Course information
 
-Journalists today are expected to find stories hidden inside complex data. In this class, you will combine your analytical abilities with modern software to look at raw data in new ways. You are not merely summarizing events or information -- this is investigative journalism at its core. This lecture class will employ code, data, basic stats analytical thinking, and practical journalism techniques.
+Journalists today are expected to find stories hidden inside complex data. In this class, you will combine your analytical abilities with modern software to look at raw data in new ways. You are not merely summarizing events or information -- this is investigative journalism at its core. This lecture class will employ code, data, basic stats, analytical thinking, and practical journalism techniques.
 
 ### Course goal
 
