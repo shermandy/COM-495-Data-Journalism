@@ -1,7 +1,17 @@
 This schedule *will* change.
 ## Week 1
 
-Overview of class and data collection
+### Monday
+Syllabus overview, introduction to data analysis
+
+#### Reading
+* [Data Journalism Handbook, Introduction](http://datajournalismhandbook.org/1.0/en/introduction_0.html)
+
+### Wednesday
+* Data journalism examples, data collection overview
+
+#### Assignment
+* Find an inspiring example of data journalism to share during our next class
 
 ## Week 2
 
