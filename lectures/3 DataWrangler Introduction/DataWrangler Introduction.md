@@ -2,6 +2,10 @@
 
 Borrowed and adapted from the amazing [Alberto Cairo's website](http://www.thefunctionalart.com/p/instructors-guide.html).
 
+## Helpful links
+
+* [DataWrangler's introductory video](https://vimeo.com/19185801)
+
 ## Get the data
 
 * Download the [CO2 Emissions data file](https://drive.google.com/drive/folders/1g5VLC6fyMhnRFWq8jPon5QrZeSIydSuq?usp=sharing) from the course folder
@@ -52,3 +56,20 @@ Borrowed and adapted from the amazing [Alberto Cairo's website](http://www.thefu
   * We have a lot of duplicates of the country name
 * Copy all of the wrangled data and paste into Sheets or Excel
 
+## Assignment
+
+* Wrangle the data found in the "Prisoners Executed in the US" spreadsheet
+  * Available in the [course Drive folder](https://drive.google.com/drive/folders/1g5VLC6fyMhnRFWq8jPon5QrZeSIydSuq?usp=sharing)
+
+### Basic steps
+
+* Make the obvious clean up changes in Sheets
+  * Remove the introductory rows
+  * Delete years until 1985 (to fall within DataWrangler's limits)
+  * Delete the summary data (federal, state, and regions)
+* Copy the data into DataWrangler
+* Promote Row 1 to Header
+* Select a blank row (the entire row)
+  * "Delete empty rows" - learn to check the preview before clicking checkmark
+* Fold the years using row 1
+  * You sometimes need to unfold them - depends on what you want to do with the data
