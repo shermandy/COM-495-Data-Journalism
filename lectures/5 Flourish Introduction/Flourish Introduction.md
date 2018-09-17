@@ -1,4 +1,4 @@
-# Flourish intro
+# Flourish intro 2
 
 - Can create both static and interactive infographics
 
