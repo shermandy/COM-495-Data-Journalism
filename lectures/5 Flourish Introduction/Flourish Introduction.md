@@ -208,3 +208,61 @@
     - - The two maps aren’t sharing a scale
 
     - Change “Scale points relative to” to "Maximum value in all data”
+
+# Preparing Data for County Level Map
+
+* Open the CountyData .csv file in Google Sheets
+* We need to convert the "PercentageDemocrat" and "PercentageRepublican" columns into actual percents
+  * Not decimals (which the public will struggle to understand)
+* Make two new columns to convert columns L & M into true percents (by multiplying by 100)
+  * We will use these columns to show a map of only democrat votes and a second map of only republican votes
+* Let's make another new column so we have data for a map that shows both blue and red counties on the same visualization
+* Insert another column after the last two you just created
+  * We will create an IF function to fill this row with data about which side (dem or rep) won the county
+  * =IF(O2>N2,O2, -N2)
+    * If The Republican percent is greater than the Democrat percent, fill this new column with the value of the Republican percent
+      * If it's NOT greater, fill the column with a negative version of the Democrat percent
+
+# Creating a diverging map
+
+* We'll now create a new county map in Flourish that uses a diverging color scheme to create our map of each county's "color"
+  * Create a new visualization > select the "US Map: Counties" template
+  * Turn off the points option
+* Import our new data file we just modified
+  * Set your columns to the correct values (county name and our new Dem/Rep value)
+  * Customize your colors
+    * Choose a diverging color palette and reverse the colors
+* Adding bins
+  * The default colors use a lot of shades of red and blue.
+  * You can create "bins" to force the data into categories which will simplify your map
+    * Turn off "Continuous Scale" under "Shading"
+    * Make 6 buckets and their values should be -100, -60, -30, 0, 30, 60, 100
+* You can also change the title by choosing "custom" beneath the "Shading Legend" panel
+* Make a new map showing the Republican votes (using our new percentage column)
+  * You can be lazy and make a duplicate of the last map so you don't have to reimport your data
+  * Customize the columns on the data tab
+  * And customize your colors to only show red shading and be sequential color
+  * Limit the shading buckets to 4 (with no custom thresholds)
+  * Reverse the colors (they were backwards because of our old map)
+* Repeat this process for the democratic map
+  * Be sure to change your legend titles to match the data
+
+# Maps with Points
+
+* Make a new visualization > US Map: Counties
+  * Turn off the shading
+* Import your data on the points-data tab
+* Customize your columns
+  * Make sure latitute and longitude are correct
+  * Set the "values" to the total number of Republican votes (column I)
+* Preview your map
+* Open the points panel
+  * Change the Maximum size to 20
+  * Change the fill color to red
+* Make a version for the Democratic votes
+  * We would need to adjust the bubble size - this map is misleading because the bubbles haven't been adjusted to match the scale used on the Republican map
+
+# Scatter plot
+
+* Try making a scatter plot that shows how percent of black population affects the number of votes for the democratic candidate
+  * Be sure to subdivide by state
