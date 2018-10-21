@@ -10,3 +10,4 @@
 * [Center for Disease Control] (https://www.cdc.gov/DataStatistics/)
 * [Environmental Protection Agency] (https://edg.epa.gov/metadata/catalog/main/home.page)
 * [EPA Air Quality Data] (https://www.epa.gov/outdoor-air-quality-data)
+* Higher Ed Data (https://docs.google.com/document/d/1a9COCNzqfUCFttA4FkFTyRIEV02Am1Z1rZjfXqN2mEE/edit)
