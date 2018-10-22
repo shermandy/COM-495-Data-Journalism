@@ -4,7 +4,7 @@
 * [Enigma Public](https://public.enigma.com/#under-the-radar)
 * [Open Data Network](https://www.opendatanetwork.com/)
 * [Data.gov](https://www.data.gov/)
-* [Pennsylvania Department of Health] (https://www.health.pa.gov/topics/HealthStatistics/EDDIE/Pages/EDDIE.aspx)
+* [Pennsylvania Department of Health](https://www.health.pa.gov/topics/HealthStatistics/EDDIE/Pages/EDDIE.aspx)
 * [Pennsylvania DEP] (http://data-padep-1.opendata.arcgis.com/)
 * [U.S. Energy Information Administration] (https://www.eia.gov/coal/data/browser/)
 * [Center for Disease Control] (https://www.cdc.gov/DataStatistics/)
