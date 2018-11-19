@@ -1,0 +1,22 @@
+from bs4 import BeautifulSoup
+import requests
+import csv
+
+link = requests.get('http://quotes.toscrape.com/')
+
+soup = BeautifulSoup(link.text, 'lxml')
+
+results = soup.find_all('div', attrs={'class':'quote'})
+
+quotes = []
+
+quotes.append(['Quote', 'Author'])
+
+for result in results:
+	quote = result.find('span', attrs={'class':'text'}).text.encode('utf-8')
+	author = result.find('small', attrs={'class':'author'}).text.encode('utf-8')
+	quotes.append([quote, author])
+
+with open('output.csv', 'a') as csv_file:
+	csv_output = csv.writer(csv_file)
+	csv_output.writerows(quotes)
