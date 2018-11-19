@@ -1,0 +1,35 @@
+from requests import get
+from bs4 import BeautifulSoup
+from time import sleep
+from random import randint
+import csv
+
+titles = []
+prices = []
+books = []
+
+pages = ['1','2','3','4','5']
+
+for page in pages:
+
+	response = get('http://books.toscrape.com/catalogue/page-' + page + '.html')
+
+	sleep(randint(8,15))
+
+	soup = BeautifulSoup(response.text, 'html.parser')
+
+	book_containers = soup.find_all('article', class_ = 'product_pod')
+
+	for book_container in book_containers:
+
+		book_title = book_container.h3.a['title'].encode('utf-8')
+		titles.append(book_title)
+
+		price = book_container.find('p', class_ = 'price_color').text.encode('utf-8')
+		prices.append(price)
+
+		books.append([book_title, price])
+
+with open('output.csv','a') as csv_file:
+    csv_output = csv.writer(csv_file)
+    csv_output.writerows(books)
